@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atguigu/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/atguigu/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc/Array/Array.iml" filepath="$PROJECT_DIR$/mooc/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/atguigu/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/datastructure.iml" filepath="$PROJECT_DIR$/.idea/datastructure.iml" />
+    </modules>
+  </component>
+</project>
